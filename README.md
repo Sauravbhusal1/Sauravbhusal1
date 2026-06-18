@@ -1,4 +1,4 @@
-# Hi, I'm Saurav Bhusal 👋
+# Hi, I'm Saurav Bhusal 
 
 CS student at **Idaho State University** (B.S. Computer Science, Dec 2026) based in Pocatello, Idaho.
 Currently working as an **Undergraduate Research Assistant** at ISU's Engineering Research Lab,
